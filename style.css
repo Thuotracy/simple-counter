@@ -31,6 +31,7 @@ h1{
     width: 100px;
     margin-top: 50px;
     margin-left: 125px;
+    border: 1px solid black;
 }
 
 #decrement{
