@@ -31,3 +31,10 @@ h1{
     margin-top: 50px;
     margin-left: 125px;
 }
+
+#decrement{
+    height: 25px;
+    width: 100px;
+    margin-top: 50px;
+    margin-left: 50px; 
+}
